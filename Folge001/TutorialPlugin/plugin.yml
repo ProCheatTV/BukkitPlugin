@@ -1,0 +1,3 @@
+name: TutorialPlugin
+main: com.github.procheattv.TutorialPlugin.TutorialPlugin
+version: 0.1PREALPHA
