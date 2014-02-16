@@ -1,0 +1,14 @@
+name: TutorialPlugin
+main: com.github.procheattv.TutorialPlugin.TutorialPlugin
+version: 0.1PREALPHA
+
+commands:
+   heile:
+      description: Heilt den Spieler.
+      usage: /<command> [Anzahl der Herzen]
+   mehrherz:
+      description: Vermehrt die Herzen des Spieler.
+      usage: /<command> [Anzahl der Herzen]
+   tpplayer:
+      description: Teleportet einen Spieler zu Koordinaten oder zu einem anderen Spieler.
+      usage: /<command> [Spieler] oder /<command> [X-Position] [Y-Position] [Z-Position]
